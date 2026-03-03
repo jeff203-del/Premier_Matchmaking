@@ -28,12 +28,12 @@ function Footer() {
         width = { 50 }
         height = { 50 }
         /> <
-        strong className = 'site-name' > Premier MATCHMAKING < /strong> <
+        strong className = 'site-name' > PREMIER MATCHMAKING < /strong> <
         div >
         Phone: < Link to = "tel:+254716941192"
         className = 'tel' > +2547 16 941 192 < /Link><br/ >
-        Email: < Link to = "mailto:admin@Premiermatchmaker.co.ke"
-        className = 'mail' > admin @Premiermatchmaker.co.ke < /Link> < /
+        Email: < Link to = "mailto:admin@premiermatchmaker.co.ke"
+        className = 'mail' > admin @premiermatchmaker.co.ke < /Link> < /
         div > <
         div className = "socials" >
         <
