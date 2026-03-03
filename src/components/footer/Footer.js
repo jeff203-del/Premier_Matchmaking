@@ -33,7 +33,7 @@ function Footer() {
         Phone: < Link to = "tel:+254716941192"
         className = 'tel' > +2547 16 941 192 < /Link><br/ >
         Email: < Link to = "mailto:admin@premiermatchmaker.co.ke"
-        className = 'mail' > admin @premiermatchmaker.co.ke < /Link> < /
+        className = 'mail' > admin@premiermatchmaker.co.ke < /Link> < /
         div > <
         div className = "socials" >
         <
