@@ -37,4 +37,4 @@ Contributions are welcome to enhance the Premier Matchmaking project. If you hav
 
 ## Contact Information
 
-For any inquiries, please contact the project maintainer at [dnyamai.dn@gmail.com]
+For any inquiries, please contact the project maintainer at [jeffmutembei203@gmail.com]
